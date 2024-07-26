@@ -1,6 +1,4 @@
-require('dotenv').config()
 
-console.log(process.env);
 /*
  * Install the Generative AI SDK
  *
